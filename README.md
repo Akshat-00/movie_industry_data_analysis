@@ -30,16 +30,17 @@ The goal was to uncover trends and patterns that explain both **financial succes
 ## 📊 Key Visuals
 
 ### Runtime vs Revenue
-![Runtime vs Revenue](output_images/line.png)
+![Runtime vs Revenue](output_images/Line.png)
 
 ### Budgets and Revenues by Country
-![Choropleth](output_images/choropleth.png)
+![Choropleth](output_images/Choropleth.png)
 
 ### Genre Performance Over Time
-![Treemap](output_images/treemap.png)
+![Treemap](output_images/Treeplot.png)
 
 ### Movie Revenue Dashboard
-![Dashboard](output_images/movie_revenue_dashboard.png)
+![Dashboard](output_images/movie-revenue_dashboard.png)
 
 ---
+
 
